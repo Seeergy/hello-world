@@ -1,3 +1,4 @@
-# hello-world
-Just
-djbkjdkj
+<?php
+$user = "wasya";
+echo "Hello $user";
+?>
