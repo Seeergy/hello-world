@@ -1,2 +1,3 @@
 # hello-world
-Just
+echo "Hello world";
+Hi Sergy!
