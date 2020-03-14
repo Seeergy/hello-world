@@ -1,4 +1,4 @@
-# hello-world
-
-echo "Hello world";
-Hi Sergy!
+<?php
+$user = "wasya";
+echo "Hello $user";
+?>
