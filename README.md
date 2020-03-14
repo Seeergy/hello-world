@@ -1,4 +1,3 @@
-# hello-world
-
+<?php
 echo "Hello world";
-Hi Sergy!
+?>
